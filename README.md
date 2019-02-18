@@ -1,4 +1,5 @@
 # Goldabj.github.io
+https://brendangoldacker.com
 
 # About Jekyll
 ---
@@ -7,7 +8,7 @@ Font matter is just varible for your page. There are some built in varible to se
 All font matter varible can be found under the page.'var' object (ex: page.title). 
 
 ####Static Data
-You can create static yml data files under the /data directory. These collection will then be avaliable under the sit.data.'fileName' varibale. 
+You can create static yml, json, or csv data files under the /data directory. These collection will then be avaliable under the sit.data.'fileName' varibale. 
 
 ####Posts
 You can specify markdown posts in the _posts/ directory. Each post must have a file name of YYYY-MM-DD-title.md . 
