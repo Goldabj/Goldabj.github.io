@@ -44,3 +44,9 @@ bundle exec jekyll serve
 ```
 * you can see you drafts by adding the '--drafts' flag 
 
+###Docs
+[Jekyll Docs](https://jekyllrb.com/docs/)
+[Markdown Guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Offical Liquid Docs](https://shopify.github.io/liquid/basics/introduction/)
+
+
